@@ -1,0 +1,1 @@
+-wto "4c74a00e081f4117aa46451f31b48456" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "fx4_behav" "xil_defaultlib.fx4" -log "elaborate.log" 

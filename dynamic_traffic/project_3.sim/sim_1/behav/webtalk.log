@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Mon May 08 10:10:49 2017
+# Process ID: 14824
+# Log file: F:/vivado/project_3/project_3.sim/sim_1/behav/webtalk.log
+# Journal file: F:/vivado/project_3/project_3.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source F:/vivado/project_3/project_3.sim/sim_1/behav/xsim.dir/fx4_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 48870173 -regid "211236452_0_0_122" -xml F:/vivado/project_3/project_3.sim/sim_1/behav/xsim.dir/fx4_behav/webtalk/usage_sta..."
+    (file "F:/vivado/project_3/project_3.sim/sim_1/behav/xsim.dir/fx4_behav/webtalk/xsim_webtalk.tcl" line 32)
+INFO: [Common 17-206] Exiting Webtalk at Mon May 08 10:10:54 2017...

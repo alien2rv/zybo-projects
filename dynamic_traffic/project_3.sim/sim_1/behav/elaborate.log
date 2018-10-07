@@ -1,0 +1,18 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: F:/xilinx/Vivado/2014.4/bin/unwrapped/win64.o/xelab.exe -wto 4c74a00e081f4117aa46451f31b48456 --debug typical --relax -L xil_defaultlib -L secureip --snapshot fx4_behav xil_defaultlib.fx4 -log elaborate.log 
+Multi-threading is on. Using 6 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_unsigned
+Compiling architecture foo of entity xil_defaultlib.division [division_default]
+Compiling architecture traffic of entity xil_defaultlib.traffic [traffic_default]
+Compiling architecture behavioral of entity xil_defaultlib.fx4
+Built simulation snapshot fx4_behav

@@ -1,0 +1,7 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/vivado/project_3/project_3.srcs/sources_1/new/division.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity division
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/vivado/project_3/project_3.srcs/sources_1/new/traffic.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity traffic
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/vivado/project_3/project_3.srcs/sources_1/new/FX4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity fx4

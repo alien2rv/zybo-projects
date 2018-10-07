@@ -1,0 +1,4 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../project_3.srcs/sources_1/new/division.vhd"
+vhdl xil_defaultlib  "../../../project_3.srcs/sources_1/new/traffic.vhd"
+vhdl xil_defaultlib  "../../../project_3.srcs/sources_1/new/FX4.vhd"
