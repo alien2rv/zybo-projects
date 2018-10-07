@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Sat Mar 25 16:55:33 2017
+# Process ID: 8152
+# Log file: e:/ipsnippets/capt/ov7670_capture_v1_0_v1_0_project/ov7670_capture_v1_0_v1_0_project.sim/sim_1/behav/webtalk.log
+# Journal file: e:/ipsnippets/capt/ov7670_capture_v1_0_v1_0_project/ov7670_capture_v1_0_v1_0_project.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source e:/ipsnippets/capt/ov7670_capture_v1_0_v1_0_project/ov7670_capture_v1_0_v1_0_project.sim/sim_1/behav/xsim.dir/ov7670_capture_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 1235719783 -regid "211236452_0_0_122" -xml e:/ipsnippets/capt/ov7670_capture_v1_0_v1_0_project/ov7670_capture_v1_0_v1_0_pro..."
+    (file "e:/ipsnippets/capt/ov7670_capture_v1_0_v1_0_project/ov7670_capture_v1_0_v1_0_project.sim/sim_1/behav/xsim.dir/ov7670_capture_behav/webtalk/xsim_webtal..." line 32)
+INFO: [Common 17-206] Exiting Webtalk at Sat Mar 25 16:55:34 2017...

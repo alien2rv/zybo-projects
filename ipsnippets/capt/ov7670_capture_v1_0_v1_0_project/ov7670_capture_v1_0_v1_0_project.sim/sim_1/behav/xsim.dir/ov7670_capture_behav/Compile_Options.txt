@@ -1,0 +1,1 @@
+-wto "c3f3942cb40548fa803873451f168c70" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "ov7670_capture_behav" "xil_defaultlib.ov7670_capture" -log "elaborate.log" 
